@@ -98,16 +98,16 @@ The overall CSS of the Template is distributed into different separate files. In
 there is some fantastic animations in this template like
 
 *   Translate Effect : to use it , just Surround the '' element with a div containing class of the wanted animation . example :-  
-    `
+    ```
     <div class="image-container translate-effect-right">
 
            <img src="http://via.placeholder.com/350x209" alt="alt image text">
 
     </div>
 
-    `
+    ```
 *   ZoomIn Effect  
-    `
+    ```
 
     <div class="image-container zoomIn-effect">
 
@@ -115,8 +115,8 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
-*   ZoomOut Effect`
+    ```
+*   ZoomOut Effect```
 
     <div class="image-container zoomOut-effect">
 
@@ -124,8 +124,8 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
-*   RotateIn Effect`
+    ```
+*   RotateIn Effect```
 
     <div class="image-container rotateIn-effect">
 
@@ -133,8 +133,8 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
-*   RotateOut Effect`
+    ```
+*   RotateOut Effect```
 
     <div class="image-container rotateOut-effect">
 
@@ -142,8 +142,8 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
-*   Shine Effect`
+    ```
+*   Shine Effect```
 
     <div class="image-container shine-effect">
 
@@ -151,8 +151,8 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
-*   Circle Effect`
+    ```
+*   Circle Effect```
 
     <div class="image-container circle-effect">
 
@@ -160,33 +160,33 @@ there is some fantastic animations in this template like
 
     </div>
 
-    `
+    ```
 
 ## Javascript Structure
 
 This Template uses latest version of jQuery and other JavaScript libraries to add extra functioanlity.
 
 *   comming soon counter down you can edit it from the html code inside the 'comming-soon.html' page by editing the date in this code  
-    `
+    ```
 
     <div id="comming-soon" data-countdown="2019/01/01"></div>
 
-    `
+    ```
 *   you can change the default location to yours by edit the 'data-lng' & 'data-lat' in the 'contactus.html' file and edit the following code  
-    `
+    ```
 
     <div id="map" data-lng="31.248848" data-lat="29.966324"  
     data-icon="assets/custom/images/map-marker.png"  
     data-zom="12" style="width:100%;height:420px">  
     </div>
 
-    `
+    ```
 *   the counters which in the index pages and about pages you can change the values by changing the html code as follows :-  
-    `
+    ```
 
     <h2 class="" data-count="307">0</h2>
 
-    `where is the zero is the number to start and 307 is the number to reach .
+    ```where is the zero is the number to start and 307 is the number to reach .
 
 ## Support
 
