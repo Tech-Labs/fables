@@ -117,7 +117,7 @@ there is some fantastic animations in this template like
 
     ```
 *   ZoomOut Effect
-```
+    ```
 
     <div class="image-container zoomOut-effect">
 
@@ -127,7 +127,7 @@ there is some fantastic animations in this template like
 
     ```
 *   RotateIn Effect'
-```
+    ```
 
     <div class="image-container rotateIn-effect">
 
@@ -137,7 +137,7 @@ there is some fantastic animations in this template like
 
     ```
 *   RotateOut Effect
-```
+    ```
 
     <div class="image-container rotateOut-effect">
 
@@ -147,7 +147,7 @@ there is some fantastic animations in this template like
 
     ```
 *   Shine Effect
-```
+    ```
 
     <div class="image-container shine-effect">
 
@@ -157,7 +157,7 @@ there is some fantastic animations in this template like
 
     ```
 *   Circle Effect
-```
+    ```
 
     <div class="image-container circle-effect">
 
@@ -172,8 +172,8 @@ there is some fantastic animations in this template like
 This Template uses latest version of jQuery and other JavaScript libraries to add extra functioanlity.
 
 *   comming soon counter down you can edit it from the html code inside the 'comming-soon.html' page by editing the date in this code  
-    ```
 
+    ```
     <div id="comming-soon" data-countdown="2019/01/01"></div>
 
     ```
