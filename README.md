@@ -3,7 +3,7 @@
 ## Multipurpose Corporation HTML5 Template
 
 Fables is the awesome responsive HTML5 template created for corporate and portfolio websites – business site needn’t be boring! It features a very clean and minimal design that is perfect for showcasing your work. It is also optimized for Retina Displays (used in iPhone, iPad and MacBook Pro Retina).
-
+[https://tech-labs.github.io/fables/](https://tech-labs.github.io/fables/)
 
 ## Features
 
