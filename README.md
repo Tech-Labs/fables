@@ -116,7 +116,8 @@ there is some fantastic animations in this template like
     </div>
 
     ```
-*   ZoomOut Effect```
+*   ZoomOut Effect
+```
 
     <div class="image-container zoomOut-effect">
 
@@ -125,7 +126,8 @@ there is some fantastic animations in this template like
     </div>
 
     ```
-*   RotateIn Effect```
+*   RotateIn Effect'
+```
 
     <div class="image-container rotateIn-effect">
 
@@ -134,7 +136,8 @@ there is some fantastic animations in this template like
     </div>
 
     ```
-*   RotateOut Effect```
+*   RotateOut Effect
+```
 
     <div class="image-container rotateOut-effect">
 
@@ -143,7 +146,8 @@ there is some fantastic animations in this template like
     </div>
 
     ```
-*   Shine Effect```
+*   Shine Effect
+```
 
     <div class="image-container shine-effect">
 
@@ -152,7 +156,8 @@ there is some fantastic animations in this template like
     </div>
 
     ```
-*   Circle Effect```
+*   Circle Effect
+```
 
     <div class="image-container circle-effect">
 
@@ -186,7 +191,8 @@ This Template uses latest version of jQuery and other JavaScript libraries to ad
 
     <h2 class="" data-count="307">0</h2>
 
-    ```where is the zero is the number to start and 307 is the number to reach .
+    ```
+where is the zero is the number to start and 307 is the number to reach .
 
 ## Support
 
