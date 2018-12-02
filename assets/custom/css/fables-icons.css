@@ -1,0 +1,221 @@
+@font-face {
+  font-family: 'fables';
+  src:  url('../fonts/fables.eot?gq2yr8');
+  src:  url('../fonts/fables.eot?gq2yr8#iefix') format('embedded-opentype'),
+    url('../fonts/fables.ttf?gq2yr8') format('truetype'),
+    url('../fonts/fables.woff?gq2yr8') format('woff'),
+    url('../fonts/fables.svg?gq2yr8#fables') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fables-icon"], [class*=" fables-icon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fables' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fables-iconmenu-icon:before {
+  content: "\e940";
+}
+.fables-iconuser-register:before {
+  content: "\e93f";
+}
+.fables-iconpassword:before {
+  content: "\e93e";
+}
+.fables-iconuser:before {
+  content: "\e90c";
+}
+.fables-iconDiagonal-arrow:before {
+  content: "\e93b";
+}
+.fables-iconsquare-icon:before {
+  content: "\e93c";
+}
+.fables-iconplay:before {
+  content: "\e93a";
+}
+.fables-iconscreen:before {
+  content: "\e937";
+}
+.fables-iconfile:before {
+  content: "\e938";
+}
+.fables-iconhead-set-light:before {
+  content: "\e939";
+}
+.fables-iconnews:before {
+  content: "\e934";
+}
+.fables-iconcalender:before {
+  content: "\e935";
+}
+.fables-iconarrow-light:before {
+  content: "\e936";
+}
+.fables-iconbussiness:before {
+  content: "\e930";
+}
+.fables-iconbussiness2:before {
+  content: "\e931";
+}
+.fables-iconbussiness3:before {
+  content: "\e932";
+}
+.fables-iconbussiness4:before {
+  content: "\e933";
+}
+.fables-iconarrow-down:before {
+  content: "\e900";
+}
+.fables-iconarrow-left:before {
+  content: "\e901";
+}
+.fables-iconarrow-next:before {
+  content: "\e902";
+}
+.fables-iconarrow-right:before {
+  content: "\e903";
+}
+.fables-iconcart:before {
+  content: "\e904";
+}
+.fables-iconcart-icon:before {
+  content: "\e905";
+}
+.fables-iconcomment:before {
+  content: "\e906";
+}
+.fables-iconcommingSoon:before {
+  content: "\e907";
+}
+.fables-iconcompare:before {
+  content: "\e908";
+}
+.fables-icondata:before {
+  content: "\e909";
+}
+.fables-icondevelopment-icon:before {
+  content: "\e90a";
+}
+.fables-icondown-arrow:before {
+  content: "\e90b";
+}
+.fables-iconemail:before {
+  content: "\e93d";
+}
+.fables-iconeye:before {
+  content: "\e90d";
+}
+.fables-iconfacebook:before {
+  content: "\e90e";
+}
+.fables-icongears-icon:before {
+  content: "\e90f";
+}
+.fables-icongoogle-icon:before {
+  content: "\e910";
+}
+.fables-icongooglePlus:before {
+  content: "\e911";
+}
+.fables-icongrid:before {
+  content: "\e912";
+}
+.fables-iconheadset-icon:before {
+  content: "\e913";
+}
+.fables-iconheart:before {
+  content: "\e914";
+}
+.fables-iconinstagram:before {
+  content: "\e915";
+}
+.fables-iconinstagram-icon:before {
+  content: "\e916";
+}
+.fables-iconlamp-icon:before {
+  content: "\e917";
+}
+.fables-iconlink:before {
+  content: "\e918";
+}
+.fables-iconlinkedIn:before {
+  content: "\e919";
+}
+.fables-iconlinkedin-icon:before {
+  content: "\e91a";
+}
+.fables-iconlist:before {
+  content: "\e91b";
+}
+.fables-iconmap-icon:before {
+  content: "\e91c";
+}
+.fables-iconmobileApp-icon:before {
+  content: "\e91d";
+}
+.fables-iconphone:before {
+  content: "\e91e";
+}
+.fables-iconphone-icon:before {
+  content: "\e91f";
+}
+.fables-iconpinterest:before {
+  content: "\e920";
+}
+.fables-iconprice:before {
+  content: "\e921";
+}
+.fables-iconprint:before {
+  content: "\e922";
+}
+.fables-iconquote-left-light:before {
+  content: "\e923";
+}
+.fables-iconquote-right-light:before {
+  content: "\e924";
+}
+.fables-iconrocket-icon:before {
+  content: "\e925";
+}
+.fables-iconsearch-icon:before {
+  content: "\e926";
+}
+.fables-iconshare:before {
+  content: "\e927";
+}
+.fables-iconshare-icon:before {
+  content: "\e928";
+}
+.fables-icontags:before {
+  content: "\e929";
+}
+.fables-icontags-light:before {
+  content: "\e92a";
+}
+.fables-icontwitter:before {
+  content: "\e92b";
+}
+.fables-icontwitter-icon:before {
+  content: "\e92c";
+}
+.fables-iconvision-icon:before {
+  content: "\e92d";
+}
+.fables-iconwebDesign-icon:before {
+  content: "\e92e";
+}
+.fables-iconwhatapp-icon:before {
+  content: "\e92f";
+}
