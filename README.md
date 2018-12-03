@@ -195,10 +195,6 @@ This Template uses latest version of jQuery and other JavaScript libraries to ad
     ```
 where is the zero is the number to start and 307 is the number to reach .
 
-## Support
-
-If you need some help or found a bug or issue with the template, You can always contact us at [info@ed.com.eg](mailto:info@ed.com.eg) we will respond to you within 48 working hour.
-
 ## Changelogs
 
 v1.0 (02.12.2018) - Initial Release
